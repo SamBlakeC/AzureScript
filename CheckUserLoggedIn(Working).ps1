@@ -6,3 +6,4 @@ $loggedin = 'true'
 }
 }
 $loggedin
+Write-Output $loggedin
